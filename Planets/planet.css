@@ -1,0 +1,40 @@
+
+table{
+    width: 75%;
+    border: dashed 3px;
+    margin: 4px 150px 0 150px;
+    border-collapse: collapse;
+    background-image:url(planet.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    
+    
+   
+}
+th{
+    height: 50px;
+    background-color:rgba(173, 216, 230, 0.556)
+   
+}
+td{
+    height: 57px;
+   
+}
+table,td,th{
+    border: dashed 3px;
+    text-align: center;
+  
+}
+.f{
+    background-color:rgba(173, 216, 230, 0.556)
+}
+p{
+
+    color: red;
+    text-align:center ;
+    
+}
+mark{
+    color: white;
+    background-color: red;
+}
